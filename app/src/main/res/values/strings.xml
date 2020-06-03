@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">QR-считыватель</string>
+    <string name="barcode_header">Нажми &quot;Считать QR-код&quot;</string>
+    <string name="read_barcode">Считать QR-код</string>
+    <string name="auto_focus">AutoFocus</string>
+    <string name="use_flash">Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+</resources>
